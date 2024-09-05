@@ -1,6 +1,9 @@
 # skola
 https://xeon.spskladno.cz/~holecek/Predmet_Programovani/
-
+<h3>Specifikace Samostatného projektu</h3>
+<p>Samostaný projekt je práce jednoho člověka.</p>
+<p>Samostatný projekt má stejné minimální požadavky jako Skupinový.</p>
+<p>Minimální požadavky (samozřejmě můžete přidat cokoliv navíc):</p>
 <ol>
 		<li>
 			Projekt je (od druhého ročníku) uložen na Gitu.
