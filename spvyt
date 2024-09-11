@@ -1,1 +1,42 @@
-https://moodle.spskladno.cz/pluginfile.php/30650/mod_resource/content/1/IT4_SPVYT_24_25_ustni_draft.pdf
+1. Historický vývoj počítačů
+1.1. První počítací stroje
+Abakus (asi 2000 př. n. l.): Jeden z nejstarších známých počítacích nástrojů, používaný v různých kulturách, zejména v Číně a Mezopotámii.
+Pascalina (1642): Blaise Pascal vytvořil první mechanický počítací stroj, který uměl sčítat a odčítat.
+Analytický stroj (1830): Charles Babbage navrhl analytický stroj, který je považován za předchůdce moderního počítače. I když nebyl nikdy dokončen, jeho koncept zahrnoval většinu základních prvků dnešních počítačů, jako je aritmetická jednotka, řídící jednotka a paměť.
+1.2. Generace počítačů
+První generace (1940–1956): Počítače používaly elektronkové technologie. Například ENIAC (Electronic Numerical Integrator and Computer) byl jeden z prvních elektronických počítačů. Tyto počítače byly velké, drahé a měly omezenou kapacitu.
+
+Druhá generace (1956–1963): Nástup tranzistorů, které byly menší, spolehlivější a energeticky úspornější než elektronky. Počítače jako IBM 1401 nebo UNIVAC II patří sem.
+
+Třetí generace (1964–1971): Přechod na integrované obvody (ICs), což umožnilo výrobu menších a výkonnějších počítačů. Modely jako IBM System/360 jsou příklady z této doby.
+
+Čtvrtá generace (1971–současnost): Zavedení mikroprocesorů, které umožnily vytvoření osobních počítačů. Počítače se staly dostupnějšími a kompaktnějšími. Příkladem je Intel 4004, první mikroprocesor.
+
+Pátá generace (současnost a budoucnost): Zaměření na umělou inteligenci, kvantové výpočty a pokročilé technologie. Současné počítače jsou stále rychlejší a mocnější s pokročilými schopnostmi strojového učení a analýzy dat.
+
+2. Von Neumannovská a Harvardská koncepce
+2.1. Von Neumannovská architektura
+Popis: Tato architektura je pojmenována podle Johna von Neumanna a používá stejnou paměť pro data i instrukce. To znamená, že program a data jsou ukládána do stejného úložiště, což umožňuje flexibilní přístup a úpravy programů.
+
+Výhody: Jednoduchost a univerzálnost, protože jedno paměťové místo slouží pro všechno.
+
+Nevýhody: Může docházet k „úzkému hrdlu“ mezi procesorem a pamětí, protože sdílejí stejnou sběrnici pro data a instrukce, což může zpomalit výkon.
+
+2.2. Harvardská architektura
+Popis: Tato architektura používá oddělené paměti pro instrukce a data. Instrukce jsou uloženy v jedné paměti a data v jiné.
+
+Výhody: Vyšší rychlost, protože čtení instrukcí a dat může probíhat paralelně, čímž se zvyšuje celkový výkon.
+
+Nevýhody: Komplexnost, protože vyžaduje dvě samostatné paměti a sběrnice.
+
+3. Výpočetní model
+Výpočetní model: Představuje teoretický rámec pro chápání a navrhování počítačů a algoritmů. Různé modely se používají pro různé účely:
+
+Turingův stroj: Teoretický model, který popisuje základní principy výpočtů. Je to abstraktní stroj, který využívá pásku a hlavu čtecího/zapisovacího zařízení. Je užitečný pro dokazování teoretických limitů výpočtů.
+
+Von Neumannův model: Praktický model, který popisuje architekturu počítače jako sekvenční procesor s pamětí pro data a instrukce.
+
+Paralelní modely: Například modely zaměřené na více procesorů, které mohou provádět výpočty paralelně, což zvyšuje výkon a rychlost výpočtů.
+
+Shrnutí
+Vývoj počítačů prošel mnoha fázemi od mechanických zařízení až po moderní mikroprocesorové systémy. Architektury jako von Neumannovská a Harvardská poskytují různé přístupy k organizaci výpočtových prostředků a ovlivňují výkon a efektivitu počítačů. Různé výpočetní modely pak pomáhají pochopit teoretické a praktické aspekty výpočtů.
