@@ -1,4 +1,4 @@
-#2, podle datumu (den.mesic) ti program najde znameni zverokruhu (hledame jen ve 3 znamenich býk, beran, blizenci) 
+#2, podle datumu (den.mesic) ti program najde znameni zverokruhu (hledame jen ve 3 znamenich býk, beran, blizenci)
 
 #Beran     20.3. - 20.4.
 #Býk       20.4. - 21.5.
