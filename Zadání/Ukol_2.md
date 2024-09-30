@@ -8,7 +8,7 @@ Zde jsou odkazy na dnešní materiály:
 - [Insert select agregace funkce zadání](https://github.com/JaroslavHolecek/Teaching/blob/master/JupyterNotebook/SQL/Insert_select_agregacniFunkce_zadani.ipynb)
 - Možná stihneme také: [Insert select agregace funkce zadání](https://github.com/JaroslavHolecek/Teaching/blob/master/JupyterNotebook/SQL/Insert_select_agregacniFunkce_zadani.ipynb)
 
-Kdyby jsi chtěla správné výsledky, tak se zeptej spolužáků, případně na začátku příští hodiny :).
+Kdyby jsi chtěla správné výsledky, tak se zeptej spolužáků, případně na začátku příští hodiny :). 
 
 S pozdravem,  
 **Koudelka Matěj**
