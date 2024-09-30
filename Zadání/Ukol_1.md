@@ -1,4 +1,4 @@
-# Úkol 1
+# Úkol 1 
 
 1. **Program na výpis dat podle zadání**  
    - Zadá se průměrná teplota pro každé čtvrtletí.
